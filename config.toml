@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "lanternman.vercel.app"
+base_url = "https://lanternman.vercel.app/"
+
 
 
 # Whether to automatically compile all Sass files in the sass directory
