@@ -1,4 +1,7 @@
-
++++
+title = "Entregar"
+date = 2024-10-03
++++
 Se pierde la magia de las cosas cuando nos enfocamos en entrgar. 
 
 Tal como este escrito, es por eso que lo escribire tal cual me salga de los pensamientos, tratando de ser la forma mas pura de eso. 
