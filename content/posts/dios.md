@@ -31,7 +31,7 @@ $$
 
 En teoría de conjuntos, el conjunto vacío ($ \emptyset $) es la representación matemática de la "nada," ya que no contiene elementos:
 $$
-\emptyset = \{\}
+\emptyset = {}
 $$
 
 Sin embargo, este conjunto vacío está **contenido dentro del universo de conjuntos**:
